@@ -744,3 +744,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+.img-custom {
+  height: 240px;
+  width: 400px;
+}
